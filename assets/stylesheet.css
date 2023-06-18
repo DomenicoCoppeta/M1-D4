@@ -56,6 +56,9 @@ letter-spacing: 1px;
     cursor:pointer;
 }
 
+
+/* BARRA IN CIMA AL SITO */
+
 .topbar {
 display: flex;
 flex-wrap: wrap;
@@ -149,11 +152,15 @@ color: #757575;
         font-size: 14px;
         color: #757575;
     }
-    
+
+
     main {
         display: flex;
         flex-wrap: no-wrap;
         }
+
+
+/* SEZIONE NEWS*/
 
 
     .wall {
@@ -188,7 +195,6 @@ color: #757575;
         background-color: transparent;
         filter: opacity(0.5);
         cursor:pointer
-        
     }
 
     .walltab:focus {
@@ -209,7 +215,6 @@ color: #757575;
         color: #757575;
 
     }
-
 
     .date {
         margin-top: 15px;
@@ -244,6 +249,9 @@ color: #757575;
         border-radius: 10px;
         padding: 5px 10px 5px 10px;
     }
+
+
+/* SEZIONE PROFILO */
 
 
     #infosection {
@@ -342,6 +350,7 @@ cursor:pointer;
 .seeall {
 font-size: 80%;
 }
+
 
 .foot {
     display: flex;
